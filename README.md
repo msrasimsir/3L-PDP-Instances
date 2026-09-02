@@ -15,7 +15,6 @@ Each instance is characterized by:
 - Number of transshipment points
 - Box configuration
 - Time windows
-- Vehicle capacity
 
 ## File Naming Convention
 
