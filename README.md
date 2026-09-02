@@ -1,11 +1,6 @@
-# 3L-PDP-Instances
-These instances are generated for Pickup and Delivery Problem with split loading, transshipment and three-dimensional loading constraints.
-## Benchmark Instances
-
+# 3L-PDPSLT Benchmark Instances
 This repository contains the benchmark instances used in the computational
-experiments of the study:
-
-"Pickup and Delivery Problem with Split Loads, Transshipments and
+experiments of the study: "Pickup and Delivery Problem with Split Loads, Transshipments and
 Three-Dimensional Loading Constraints"
 
 ## Dataset Structure
